@@ -14,10 +14,17 @@ cqlsh:cassandra_ofbiz> select * from product_order_recommended ;
 
 3. Run Model in Spark OrderBaseRecommendation.java file
 
-4. Run Spring boot application
+4. Build lombok jar file
+Go to .m2/repository/org/projectlombok/lombok/1.18.12
+-----> java -jar lombok-1.18.12.jar
 
-5. Hit URL on browser or Postmen
+5. Run Spring boot application
+---> mvn clean install
+Go to target folder and run jar file
+---> java -jar mattea-recommendation-api-0.0.1-SNAPSHOT.jar
+
+6. Hit URL on browser or Postmen
 http://localhost:8080/user/userIds?userId=anjaliguptanh7@gmail.com
 
-6. Swagger URL
+7. Swagger URL
 http://localhost:8080/swagger-ui.html

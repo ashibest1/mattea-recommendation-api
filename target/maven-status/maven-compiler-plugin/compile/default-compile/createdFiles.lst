@@ -1,0 +1,8 @@
+io/mattea/recommendation/service/OrderBasedRecommProdService.class
+io/mattea/recommendation/controller/OrderBasedRecommProdController.class
+io/mattea/recommendation/config/SwaggerConfig.class
+io/mattea/recommendation/Dao/OrderBasedRecommProdDao.class
+io/mattea/recommendation/repository/CassandraConnector.class
+io/mattea/recommendation/MatteaRecommendationApiApplication.class
+io/mattea/recommendation/config/CassandraConfiguration.class
+io/mattea/recommendation/pojo/OrderBasedRecommendationProducts.class

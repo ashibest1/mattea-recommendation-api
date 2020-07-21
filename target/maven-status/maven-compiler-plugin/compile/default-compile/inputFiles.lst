@@ -1,0 +1,8 @@
+/home/ashish/sandbox/mattea_rest_api/mattea-recommendation-api/src/main/java/io/mattea/recommendation/config/SwaggerConfig.java
+/home/ashish/sandbox/mattea_rest_api/mattea-recommendation-api/src/main/java/io/mattea/recommendation/Dao/OrderBasedRecommProdDao.java
+/home/ashish/sandbox/mattea_rest_api/mattea-recommendation-api/src/main/java/io/mattea/recommendation/config/CassandraConfiguration.java
+/home/ashish/sandbox/mattea_rest_api/mattea-recommendation-api/src/main/java/io/mattea/recommendation/controller/OrderBasedRecommProdController.java
+/home/ashish/sandbox/mattea_rest_api/mattea-recommendation-api/src/main/java/io/mattea/recommendation/MatteaRecommendationApiApplication.java
+/home/ashish/sandbox/mattea_rest_api/mattea-recommendation-api/src/main/java/io/mattea/recommendation/service/OrderBasedRecommProdService.java
+/home/ashish/sandbox/mattea_rest_api/mattea-recommendation-api/src/main/java/io/mattea/recommendation/repository/CassandraConnector.java
+/home/ashish/sandbox/mattea_rest_api/mattea-recommendation-api/src/main/java/io/mattea/recommendation/pojo/OrderBasedRecommendationProducts.java
